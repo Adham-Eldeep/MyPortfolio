@@ -13,15 +13,6 @@
 
 ---
 
-## ⚙️ مهاراتي
-- Python (Beginner to Intermediate)
-- Problem Solving
-- Git & GitHub
-- Object Oriented Programming (Basics)
-- Linux (Basics)
-- Teamwork & Self Learning
-- # 👨‍💻 MyPortfolio
-
 This is my first GitHub repository to start building my projects and portfolio.
 
 ---

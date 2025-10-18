@@ -7,17 +7,14 @@
 
 I aim to build a strong academic and technical foundation in the field of computer science through self-learning, practical projects, and continuous development. I am passionate about programming and problem-solving and I seek international scholarships and research opportunities that will help me grow and make a positive impact through technology.
 
-## ⚙️ مهاراتي
-- Python (Beginner to Intermediate)
-- Problem Solving
-- Git & GitHub
-- Object Oriented Programming (Basics)
-- Linux (Basics)
-- Teamwork & Self Learning
+## 🛠️ مهاراتي | Skills
 
----
-
-This is my first GitHub repository to start building my projects and portfolio.
+- **لغات البرمجة:** بايثون (من المبتدئ إلى المتوسط)
+- **حل المشكلات:** أساسيات Problem Solving
+- **إدارة الإصدارات:** Git & GitHub
+- **البرمجة الشيئية:** أساسيات OOP
+- **أنظمة التشغيل:** أساسيات Linux
+- **مهارات شخصية:** التعلم الذاتي – العمل الجماعي – الالتزام
 
 ---
 

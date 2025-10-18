@@ -3,9 +3,9 @@
 
 ## 🎯 هدفي المهني | Career Objective
 
-أسعى إلى بناء مسار أكاديمي قوي في مجال علوم الحاسب من خلال تطوير مهاراتي التقنية وتنفيذ مشاريع عملية هادفة. أهدف إلى تعزيز خبرتي في البرمجة والبحث العلمي من أجل التقديم للمنح الدراسية الدولية والفرص البحثية التي تساعدني على تحقيق تأثير إيجابي في المجتمع من خلال التكنولوجيا.
+أسعى إلى بناء مسار أكاديمي قوي في مجال علوم الحاسوب من خلال تطوير مهاراتي التقنية وتنفيذ مشاريع عملية هادفة. أطمح إلى تعزيز خبرتي في البرمجة وحل المشكلات والعمل على تطوير نفسي باستمرار للتأهل للمنح الدراسية الدولية والفرص البحثية والتطويرية. هدفي هو المساهمة في ابتكار حلول تقنية تخدم المجتمع.
 
-I am passionate about building a strong academic and technical foundation in the field of computer science through continuous learning and practical projects. I aim to enhance my programming and problem-solving skills to qualify for international scholarships and research opportunities, and to contribute to meaningful technology solutions that serve communities.
+I aim to build a strong academic and technical foundation in the field of computer science through self-learning, practical projects, and continuous development. I am passionate about programming and problem-solving and I seek international scholarships and research opportunities that will help me grow and make a positive impact through technology.
 
 ## ⚙️ مهاراتي
 - Python (Beginner to Intermediate)

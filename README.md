@@ -1,4 +1,16 @@
-# 👨‍💻 MyPortfolio
+## 👨‍💻 من أنا
+مرحبًا! أنا **أدهم عبدو رمضان الديب**، طالب في مجال **الفيزياء وعلوم الحاسب**. أسعى لتطوير مهاراتي البرمجية وبناء بورتفوليو قوي من المشاريع البرمجية باستخدام لغة Python، استعدادًا للتقديم على المنح الدراسية والفرص العالمية في مجال التقنية.
+
+---
+
+## ⚙️ مهاراتي
+- Python (Beginner to Intermediate)
+- Problem Solving
+- Git & GitHub
+- Object Oriented Programming (Basics)
+- Linux (Basics)
+- Teamwork & Self Learning
+- # 👨‍💻 MyPortfolio
 
 This is my first GitHub repository to start building my projects and portfolio.
 
@@ -31,3 +43,4 @@ This is my first GitHub repository to start building my projects and portfolio.
 - **Email:** your-email@example.com  
 - **LinkedIn:** (ضع رابط حسابك هنا)  
 - **GitHub:** (ضع رابط حسابك هنا)
+- 
